@@ -17,7 +17,7 @@ The GridLABD_Data_Adjuster script has a function that takes an input csv.file (u
 ## Requirements
 
 ```
-pip install pandas datetime numpy
+pip install pandas numpy
 ```
 
 ### To get the code
